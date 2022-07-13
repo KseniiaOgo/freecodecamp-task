@@ -168,7 +168,7 @@ h1 {
  }
 
  .button {
-    background-color: var(--brand-color)
+    background-color: var(--brand-color);
     border: 0;
     height: 25px;
     width: 120px;
